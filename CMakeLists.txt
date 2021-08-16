@@ -3,5 +3,4 @@ project(ACM)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(ACM
-        HZNU/1817.cpp)
+add_executable(ACM LPXL/0007.cpp)

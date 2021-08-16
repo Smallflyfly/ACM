@@ -2,7 +2,7 @@ file(REMOVE_RECURSE
   "ACM.exe"
   "ACM.exe.manifest"
   "ACM.pdb"
-  "CMakeFiles/ACM.dir/HZNU/1817.cpp.obj"
+  "CMakeFiles/ACM.dir/LPXL/0007.cpp.obj"
   "libACM.dll.a"
 )
 
