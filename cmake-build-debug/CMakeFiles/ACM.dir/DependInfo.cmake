@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/fangpc/Desktop/ACM/LPXL/0007.cpp" "C:/Users/fangpc/Desktop/ACM/cmake-build-debug/CMakeFiles/ACM.dir/LPXL/0007.cpp.obj"
+  "/Users/smallflyfly/Desktop/ACM/LPXL/1563.cpp" "/Users/smallflyfly/Desktop/ACM/cmake-build-debug/CMakeFiles/ACM.dir/LPXL/1563.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

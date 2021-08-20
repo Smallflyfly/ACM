@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "ACM.exe"
-  "ACM.exe.manifest"
+  "ACM"
   "ACM.pdb"
-  "CMakeFiles/ACM.dir/LPXL/0007.cpp.obj"
-  "libACM.dll.a"
+  "CMakeFiles/ACM.dir/LPXL/1563.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.
