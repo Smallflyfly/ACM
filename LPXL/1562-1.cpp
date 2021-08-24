@@ -27,7 +27,7 @@ int BFS(int c) {
         int t = pt.first;
         vector<int> temp = nextMap[t];
         for (int i = 0; i < temp.size() ; ++i) {
-            int x = temp[0];
+            int x = temp[i];
             if (!visit[x]) {
                 pair<int, int> pp(x, h+1);
                 que.push(pp);
@@ -64,7 +64,7 @@ int main() {
         }
         int h = BFS(c);
 //        printf("%d\n", h);
-        printf("%d\n", h+m+1);
+        printf("%d\n", h+m);
     }
 
     return 0;

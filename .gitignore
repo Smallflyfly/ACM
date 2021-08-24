@@ -1,0 +1,12 @@
+*.exe
+*.o
+*.dsp
+*.dsw
+*.ncb
+*.opt
+*.plg
+*.cbp
+*.depend
+*.pch
+LPXL/Debug/*
+cmake-build-debug/
